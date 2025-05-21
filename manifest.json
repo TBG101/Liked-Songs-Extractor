@@ -3,6 +3,7 @@
         "name": "Liked Songs Extractor",
         "description": "Export your liked Spotify songs and copy them to your clipboard.",
         "main": "Extensions/Liked-List-Extractor.js",
+        "preview": "assets/preview.png",
         "authors": [
             {
                 "name": "TBG101",
